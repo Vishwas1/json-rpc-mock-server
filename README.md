@@ -11,7 +11,7 @@ The server will run on port `3333`
 
 ## `resolve_did` 
 
-Use this playground to try the mock server out
+Use this playground (https://playground.open-rpc.org/) to try the mock server out
 
 RPC request
 
